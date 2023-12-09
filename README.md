@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/sontaptrung" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sontymto" height="30" width="40" /></a>
 <a href="https://kaggle.com/sontymto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sontymto" height="30" width="40" /></a>
 <a href="https://fb.com/minhten.s0n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhten.s0n" height="30" width="40" /></a>
-<a href="https://instagram.com/tthien_son" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tthien_son" height="30" width="40" /></a>
+<a href="https://www.instagram.com/silly_1l/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tthien_son" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
